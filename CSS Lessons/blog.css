@@ -1,0 +1,36 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+div{
+  border: 15px solid #bdc3c7;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.date{
+  margin-left: 15px;
+  color: #3498db;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+h2{
+  margin-left: 15px;
+  color: #2c3e50;
+}
+
+p{
+  margin-left: 15px;
+}
+
+.top{
+  border-left: 3px solid grey;
+  padding-left: 6px;
+}
+
+.bottom{
+  border-bottom: 2px solid #f1f1f1;
+  padding-bottom: 6px;
+}
